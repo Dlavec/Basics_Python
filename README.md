@@ -10,3 +10,4 @@
 1. Variables, booleanos, listas, ciclos y condicionales, funciones
 2. Librerias cientificas: NUMPY
 3. Librerias cientificas: MATPLOTLIB
+4. Librerias cientificas: PANDAS
